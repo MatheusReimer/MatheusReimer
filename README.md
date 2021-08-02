@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  <a href="matheusreimer.github.io/ReactDeployPortifolio/#portfolio">
  <span style="color:orange;">
 🟣Tenho alguma experiência profissional em desenvolvimento de projetos WEB, com a criação de 3 sites.</br>
-🟣Recentemente venho me interessando por desenvolvimento de software e por isso venho investido meu tempo em estudo relacionados à area.</br>
+🟣Recentemente venho me interessando por desenvolvimento backend e por isso venho investido meu tempo em estudo relacionados à area.</br>
 🟣Atualmente estou no 5º semestre de Ciencias da Computação na Univali - Itajaí.</br>
 </span>
 </a>
