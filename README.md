@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  <h2>Dê uma olhada no meu site </h2>
 <a href="matheusreimer.github.io/ReactDeployPortifolio/">matheusreimer.github.io/ReactDeployPortifolio/</a>
  <p>
- <a href="matheusreimer.github.io/ReactDeployPortifolio/#portfolio"></a>
+ <a href="matheusreimer.github.io/ReactDeployPortifolio"></a>
 
 -Tenho alguma experiência profissional em desenvolvimento de projetos WEB, com a criação de 3 sites.</br>
 -Recentemente venho me interessando por desenvolvimento backend e por isso venho investido meu tempo em estudo relacionados à area, confira os projetos aqui em meu github.</br>
