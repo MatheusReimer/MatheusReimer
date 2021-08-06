@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <h2>Dê uma olhada no meu site </h2>
-<a href="matheusreimer.github.io/ReactDeployPortifolio">matheusreimer.github.io/ReactDeployPortifolio/</a>
+<a href="matheusreimer.github.io/ReactDeployPortifolio">matheusreimer.github.io/ReactDeployPortifolio</a>
  <p>
  <a href="matheusreimer.github.io/ReactDeployPortifolio"></a>
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 <h2> Check my website </h2>
-<a href="matheusreimer.github.io/ReactDeployPortifolio">matheusreimer.github.io/ReactDeployPortifolio/</a>
+<a href="matheusreimer.github.io/ReactDeployPortifolio">matheusreimer.github.io/ReactDeployPortifolio</a>
 <p>
   -I have some professional experience in web project development, with the creation of 3 websites</br>
   -Recently I've been interested in backend development and that's why I've been investing my time in study related to the area, check out the projects here on my github.</br>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 <h2> Schauen Sie auf meine Website </h2>
-<a href="matheusreimer.github.io/ReactDeployPortifolio">matheusreimer.github.io/ReactDeployPortifolio/</a>
+<a href="matheusreimer.github.io/ReactDeployPortifolio">matheusreimer.github.io/ReactDeployPortifolio</a>
   -Ich habe einige Berufserfahrung in der Entwicklung von Webprojekten mit der Erstellung von 3 Websites</br>
   -In letzter Zeit interessiere ich mich für Backend-Entwicklung und deshalb habe ich meine Zeit in Studien zu diesem Bereich investiert, sieh dir die Projekte hier auf meinem Github an.</br>
   -Ich bin derzeit im 5. Semester der Informatik an der Univali - Itajaí -BR</br>
