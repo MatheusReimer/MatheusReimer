@@ -1,8 +1,20 @@
 ## Olá, bem vindo ao meu GITHUB! ##
 <div>
   <a href="matheusreimer.github.io/ReactDeployPortifolio/#portfolio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusReimer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusReimer&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=MatheusReimer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    </br>
+    </br>
+<uL width="100%" >
+  <li float="left" width="50%" >    
+  <a href="https://instagram.com/matheusreimer" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:matheusreimer1@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank""></img>
+    </a>
+  <a href="https://www.linkedin.com/in/matheus-reimer-636b10187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </li>
+    </ul>
 </div>
 
 <!--
@@ -81,13 +93,7 @@ Here are some ideas to get you started:
 ##
 <div> 
  
-  <a href="https://instagram.com/matheusreimer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
-
-  <a href = "mailto:matheusreimer1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </br>
-  <a href="https://www.linkedin.com/in/matheus-reimer-636b10187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
 </div>
