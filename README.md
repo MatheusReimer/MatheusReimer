@@ -4,8 +4,8 @@
   <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=MatheusReimer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     </br>
     </br>
-<uL width="100%" >
-  <li float="left" width="50%" >    
+<uL width="100%">
+  <li float="left" >    
   <a href="https://instagram.com/matheusreimer" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
