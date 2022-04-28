@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 -Tenho alguma experiência profissional em desenvolvimento de projetos WEB, com a criação de 3 sites.</br>
 -Recentemente venho me interessando por desenvolvimento backend e por isso venho investido meu tempo em estudo relacionados à area, confira os projetos aqui em meu github.</br>
--Atualmente estou no 5º semestre de Ciencias da Computação na Univali - Itajaí-BR.</br>
+-Atualmente estou no 6º semestre de Ciencias da Computação na Univali - Itajaí-BR.</br>
 
 
 </p>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <p>
   -I have some professional experience in web project development, with the creation of 3 websites</br>
   -Recently I've been interested in backend development and that's why I've been investing my time in study related to the area, check out the projects here on my github.</br>
-  -I am currently in the 5th semester of Computer Science at Univali - Itajaí -BR</br>
+  -I am currently in the 6th semester of Computer Science at Univali - Itajaí -BR</br>
   
 </p>
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <a href="https://matheusreimer.github.io/ReactDeployPortifolio/">https://matheusreimer.github.io/ReactDeployPortifolio/</a>
   -Ich habe einige Berufserfahrung in der Entwicklung von Webprojekten mit der Erstellung von 3 Websites</br>
   -In letzter Zeit interessiere ich mich für Backend-Entwicklung und deshalb habe ich meine Zeit in Studien zu diesem Bereich investiert, sieh dir die Projekte hier auf meinem Github an.</br>
-  -Ich bin derzeit im 5. Semester der Informatik an der Univali - Itajaí -BR</br>
+  -Ich bin derzeit im 6. Semester der Informatik an der Univali - Itajaí -BR</br>
 </br>
 </br>
 </br>
