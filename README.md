@@ -65,9 +65,9 @@ I work developing  API's at the backend stack with C# and Javascript but I have 
 </br>
 <h2> Schauen Sie auf meine Website </h2>
 <a href="https://matheusreimer.github.io/Portfolio/">https://matheusreimer.github.io/Portfolio/</a>
-  -Ich habe einige Berufserfahrung in der Entwicklung von Webprojekten mit der Erstellung von 3 Websites</br>
-  -In letzter Zeit interessiere ich mich für Backend-Entwicklung und deshalb habe ich meine Zeit in Studien zu diesem Bereich investiert, sieh dir die Projekte hier auf meinem Github an.</br>
-  -Ich bin derzeit im 6. Semester der Informatik an der Univali - Itajaí -BR</br>
+  -Ich habe ca. zwei Jahre Berufserfahrung in WEB-Projekten</br>
+  -Ich arbeite an der Entwicklung von APIs mit C# und Javascript aber ich habe den Ehrgeiz, im Mobile Bereich zu arbeiten. Deshalb entwickle ich in meiner Freizeit Projekte in Flutter und React-Native.</br>
+  -Ich bin derzeit im 7. Semester der Informatik an der THD - Deggendorf - DE </br>
 </br>
 </br>
 </br>
