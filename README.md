@@ -50,9 +50,10 @@ Here are some ideas to get you started:
 <h2> Check my website </h2>
 <a href="https://matheusreimer.github.io/Portfolio/">https://matheusreimer.github.io/Portfolio/</a>
 <p>
-  -I have some professional experience in web project development, with the creation of 3 websites</br>
-  -Recently I've been interested in backend development and that's why I've been investing my time in study related to the area, check out the projects here on my github.</br>
-  -I am currently in the 6th semester of Computer Science at Univali - Itajaí -BR</br>
+  -I have professional experience of approximately two years in WEB development</br>
+  -
+I work developing  API's at the backend stack with C# and Javascript but I have the ambition to get into the mobile development area. For this reason, I develop apps with React Native and Flutter in my spare time.</br>
+  -I am currently in the 7th semester of Computer Science as an exchange student at THD(Deggendorf -DE)</br>
   
 </p>
 
