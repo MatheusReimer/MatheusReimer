@@ -36,9 +36,9 @@ Here are some ideas to get you started:
  <p>
  <a href="https://matheusreimer.github.io/Portfolio/"></a>
 
--Tenho alguma experiência profissional em desenvolvimento de projetos WEB, com a criação de 3 sites.</br>
--Recentemente venho me interessando por desenvolvimento backend e por isso venho investido meu tempo em estudo relacionados à area, confira os projetos aqui em meu github.</br>
--Atualmente estou no 6º semestre de Ciencias da Computação na Univali - Itajaí-BR.</br>
+-Possuo experiência profissional de aproximadamente dois anos em projetos WEB</br>
+-Trabalho com o desenvolvimento backend de API's em C# e Javascript mas tenho como ambição entrar na área de desenvolvimento mobile. Por este motivo, venho criado projetos com React Native e Flutter em meu tempo livre.  </br>
+-Atualmente estou no 7º semestre de Ciencias da Computação fazendo parte de um intercâmbio na Alemanha - Deggendorf(THD).</br>
 
 
 </p>
