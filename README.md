@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  <a href="https://matheusreimer.github.io/Portfolio/"></a>
 
 -Possuo experiência profissional de aproximadamente dois anos em projetos WEB</br>
--Trabalho com o desenvolvimento backend de API's em C# e Javascript mas tenho como ambição entrar na área de desenvolvimento mobile. Por este motivo, venho criado projetos com React Native e Flutter em meu tempo livre.  </br>
+-Trabalho com o desenvolvimento backend de API's em C# e Javascript mas no meu tempo livre estudo outras ferramentas WEB como Next.js/ Typescript e Vue.js  </br>
 -Atualmente estou no 7º semestre de Ciencias da Computação fazendo parte de um intercâmbio na Alemanha - Deggendorf(THD).</br>
 
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <p>
   -I have professional experience of approximately two years in WEB development</br>
   -
-I work developing  API's at the backend stack with C# and Javascript but I have the ambition to get into the mobile development area. For this reason, I develop apps with React Native and Flutter in my spare time.</br>
+I work developing  API's at the backend stack with C# and Javascript but on my freetime I study other WEB tools like Next.js, Typescript and Vue.js.</br>
   -I am currently in the 7th semester of Computer Science as an exchange student at THD(Deggendorf -DE)</br>
   
 </p>
@@ -66,7 +66,7 @@ I work developing  API's at the backend stack with C# and Javascript but I have 
 <h2> Schauen Sie auf meine Website </h2>
 <a href="https://matheusreimer.github.io/Portfolio/">https://matheusreimer.github.io/Portfolio/</a>
   -Ich habe ca. zwei Jahre Berufserfahrung in WEB-Projekten</br>
-  -Ich arbeite an der Entwicklung von APIs mit C# und Javascript aber ich habe den Ehrgeiz, im Mobile Bereich zu arbeiten. Deshalb entwickle ich in meiner Freizeit Projekte in Flutter und React-Native.</br>
+  -Ich arbeite an der Entwicklung von APIs mit C# und Javascript aber in meiner Freizeit studiere ich andere WEB-Tools wie Next.js, Typescript und Vue.js</br>
   -Ich bin derzeit im 7. Semester der Informatik an der THD - Deggendorf - DE </br>
 </br>
 </br>
