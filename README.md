@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <h2>Dê uma olhada no meu site </h2>
-<a href="https://matheusreimer.github.io/MatheusReimerPortfolio/">https://matheusreimer.github.io/Portfolio/</a>
+<a href="https://matheusreimer.github.io/MatheusReimerPortfolio/">https://matheusreimer.github.io/MatheusReimerPortfolio/</a>
  <p>
  <a href="https://matheusreimer.github.io/MatheusReimerPortfolio//"></a>
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 <h2> Check my website </h2>
-<a href="https://matheusreimer.github.io/MatheusReimerPortfolio/">https://matheusreimer.github.io/Portfolio/</a>
+<a href="https://matheusreimer.github.io/MatheusReimerPortfolio/">https://matheusreimer.github.io/MatheusReimerPortfolio/</a>
 <p>
   -I have professional experience of approximately two years in WEB development</br>
   -
@@ -61,7 +61,7 @@ I work developing  API's at the backend stack with C# and Javascript but on my f
 </br>
 </br>
 <h2> Schauen Sie auf meine Website </h2>
-<a href="https://matheusreimer.github.io/MatheusReimerPortfolio/">https://matheusreimer.github.io/Portfolio/</a>
+<a href="https://matheusreimer.github.io/MatheusReimerPortfolio/">https://matheusreimer.github.io/MatheusReimerPortfolio//</a>
   -Ich habe ca. zwei Jahre Berufserfahrung in WEB-Projekten</br>
   -Ich arbeite an der Entwicklung von APIs mit C# und Javascript aber in meiner Freizeit studiere ich andere WEB-Tools wie Next.js, Typescript und Vue.js</br>
   -Ich bin derzeit im 7. Semester der Informatik an der THD - Deggendorf - DE </br>
