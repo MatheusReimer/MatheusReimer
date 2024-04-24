@@ -1,73 +1,18 @@
-## Olá, bem vindo ao meu GITHUB! ##
+<h2>Welcome to my Repo</h2>
+</br>
+<h5><i>--- Please bear in mind that this repository is used for my personal projects and thus the reason why the commits have been less frequent in this last season ---</i></h5>
+<hr>
+<h3>About me</h3>
 <div>
-  <a href="https://matheusreimer.github.io/MySite/">
-  <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=MatheusReimer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    </br>
-    </br>
-<uL width="100%">
-  <li float="left" >    
-  <a href = "mailto:matheusreimer1@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank""></img>
-    </a>
-  <a href="https://www.linkedin.com/in/matheus-reimer-636b10187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </li>
-    </ul>
+  <h4>Graduating in Computer Science</h4>
+  <UL>
+    <LI>Studied in Universidade do Vale do Itajai ( Itajai/Brazil [2019-2021])</LI>
+    <LI>Deggendorf Institute of Technology (Deggendorf/Germany [2021-2023])</LI>
+    <LI>Fundação Universidade Regional de Blumenau (Blumenau/Santa Catarina [2023-2024])</LI>
+  </UL>
 </div>
-
-<!--
-**MatheusReimer/MatheusReimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <h2>Dê uma olhada no meu site </h2>
-<a href="https://matheusreimer.github.io/MatheusReimerPortfolio/">https://matheusreimer.github.io/MatheusReimerPortfolio/</a>
- <p>
- <a href="https://matheusreimer.github.io/MatheusReimerPortfolio//"></a>
-
--Possuo experiência profissional de aproximadamente dois anos em projetos WEB</br>
--Trabalho com o desenvolvimento backend de API's em C# e Javascript mas no meu tempo livre estudo outras ferramentas WEB como Next.js/ Typescript e Vue.js  </br>
--Atualmente estou no 7º semestre de Ciencias da Computação fazendo parte de um intercâmbio na Alemanha - Deggendorf(THD).</br>
-
-
-</p>
-</br>
-</br>
-</br>
-</br>
-</br>
-<h2> Check my website </h2>
-<a href="https://matheusreimer.github.io/MatheusReimerPortfolio/">https://matheusreimer.github.io/MatheusReimerPortfolio/</a>
-<p>
-  -I have professional experience of approximately two years in WEB development</br>
-  -
-I work developing  API's at the backend stack with C# and Javascript but on my freetime I study other WEB tools like Next.js, Typescript and Vue.js.</br>
-  -I am currently in the 7th semester of Computer Science as an exchange student at THD(Deggendorf -DE)</br>
-  
-</p>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
+<h4>Fullstack Developer at <a href="https://www.thinklogic.com/about" target="_blank">Thinklogic</a></h4>
+<h4>Mainly working with C# and Javascript Lib ( Angular / Vue / React )</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
