@@ -31,7 +31,9 @@
 
 ##
 <div> 
- 
+
+ <hr>
+ <p>Please reach me out in Portuguese, English or German</p>
 
  
 
