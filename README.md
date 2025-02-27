@@ -11,7 +11,7 @@
     <li>Fundação Universidade Regional de Blumenau (Blumenau/Santa Catarina, 2023-2024)</li>
   </ul>
 </div>
-<h4>Fullstack Developer at <a href="https://www.thinklogic.com/about" target="_blank">Thinklogic</a>.</h4>
+<h4>Senior Fullstack Developer at <a href="https://www.thinklogic.com/about" target="_blank">Thinklogic</a>.</h4>
 <h4>Mainly working with C#, and JavaScript libraries such as Angular, Vue, and React.</h4>
 <div style="display: inline_block">
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
