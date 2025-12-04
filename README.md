@@ -1,7 +1,4 @@
 <h2>Welcome to my Repo</h2>
-<h5><i>--- Please bear in mind that this repository is used for my personal projects and thus the reason why the commits have been less frequent recently ---</i></h5>
-<h5><a href="https://matheusreimer.github.io/MatheusReimerPortfolio/">Personal Projects Portfolio</a></h5>
-<hr>
 <h3>About me</h3>
 <div>
   <h4>Graduating in Computer Science</h4>
