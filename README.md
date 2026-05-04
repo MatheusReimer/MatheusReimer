@@ -1,27 +1,36 @@
-<h2>Welcome to my Repo</h2>
-<h3>About me</h3>
-<div>
-  <h4>Graduating in Computer Science</h4>
-  <ul>
-    <li>Studied in Universidade do Vale do Itajai (Itajai/Brazil, 2019-2021)</li>
-    <li>Deggendorf Institute of Technology (Deggendorf/Germany, 2021-2023)</li>
-    <li>Fundação Universidade Regional de Blumenau (Blumenau/Santa Catarina, 2023-2024)</li>
-  </ul>
-</div>
-<h4>Senior/Lead Fullstack Developer at <a href="https://www.thinklogic.com/about" target="_blank">Thinklogic</a>.</h4>
-<h4>Mainly working with C#, and JavaScript libraries such as Angular, Vue, and React.</h4>
-<div style="display: inline_block">
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Matheus-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Matheus-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Matheus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Matheus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+# Matheus Reimer
 
-<hr>
-<p>Please reach out to me in Portuguese, English, or German.</p>
+Software engineer based in Blumenau, Brazil. Currently building global marketing platforms at **Thinklogic** (US, remote) — full-stack work serving 400k+ monthly users and 35M+ monthly requests.
+
+**→ [See my portfolio](https://matheusreimer.github.io/portfolio-v2/)**
+*(built as a card game, because a boring list of projects was never an option)*
+
+---
+
+### Stack
+
+`Nuxt.js` `Vue.js` `TypeScript` `Angular` `C# / .NET` `Node.js` `React` `Python / Django`
+
+---
+
+### A few things I've shipped
+
+- Rebuilt a 13,000-page platform as a prefetched static system — Lighthouse 90+ across all pages, DDoS neutralized
+- Built an AI translation pipeline with Google Gemini that cleared a multilingual CMS backlog in days
+- Replaced Azure Search with Algolia, wired to GTM + GA4 for full search-to-conversion tracking
+- Led a 2-person team to deliver 40 redesigned CMS pages in 21 days — 9 days ahead of a hard deadline
+
+---
+
+### Background
+
+Started in IT support, picked up dev on the side, went through a scholarship at **Deggendorf Institute of Technology** in Germany, and eventually landed where I am now. I've shipped across Nuxt, Vue, Angular, C# and Node — the stack changes, the approach doesn't.
+
+---
+
+### Reach out
+
+- Email — matheusreimer1@gmail.com  
+- LinkedIn — [linkedin.com/in/matheus-reimer-636b10187](https://www.linkedin.com/in/matheus-reimer-636b10187/)
+
+*Portuguese · English · (surviving in German)*
